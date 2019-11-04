@@ -1,5 +1,7 @@
 Hey I am Abdullah and here is my work 
-| Column 1       | Column 2     | Column 3     |
-| :------------- | :----------: | -----------: |
-|  Cell Contents | More Stuff   | And Again    |
-| You Can Also   | Put Pipes In | Like this \| |
+|    **File**    | **Its Link** |
+| ------------- | ------------- |
+| Growth Mindset |[link](https://abdullah63.github.io/learning-journal/README) |
+|  text editors  |[link](https://github.com/Abdullah63/learning-journal/Text-editors) |
+|     GitHub     |[link](https://github.com/Abdullah63/learning-journal/breef)  |
+
